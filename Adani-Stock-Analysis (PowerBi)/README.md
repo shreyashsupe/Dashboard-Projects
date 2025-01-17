@@ -15,7 +15,7 @@ This file contains the Adani Enterprises stock data analysis project, showcasing
 
 Below is a preview of the dashboard:
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Adani-Stock-Analysis%20(PowerBi)/Dashboard%20png.png)
 
 
 ## Key Insights
