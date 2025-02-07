@@ -9,7 +9,7 @@ This project is a **Spotify Dashboard** created in Power BI to analyze and visua
 
 Below is a preview of the dashboard:
 
-![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Adani-Stock-Analysis%20(PowerBi)/Dashboard%20png.png)
+![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Spotify%20Analysis/Dashboard.png)
 
 ---
 
